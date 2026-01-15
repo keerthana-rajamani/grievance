@@ -1,6 +1,6 @@
 # Online Complaint and Grievance Portal
 
-A complete demo-ready web application for managing complaints and grievances with role-based access control.
+A complete web application for managing complaints and grievances with role-based access control.
 
 ## Architecture Overview
 
